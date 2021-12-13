@@ -3,7 +3,8 @@ Book Library for internship as Visma
 
 In this app you can view library books through console.
 
-How to use it: \n
+How to use it:
+
 -Write "Help" if you want to see all created commands.
 -Write "List" and dialogue will pop up. Just press enter to skip filtering. Then you will see all library books.
 If you want to filter list, choose one of given filters and in next dialogue write down the key. List will be filtered based on 
