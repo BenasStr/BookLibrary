@@ -3,7 +3,7 @@ Book Library for internship as Visma
 
 In this app you can view library books through console.
 
-How to use it:
+**How to use it:**
 
 - Write "Help" if you want to see all created commands.
 - Write "List" and dialogue will pop up. Just press enter to skip filtering. Then you will see all library books.
@@ -13,3 +13,7 @@ chosen filter and key value.
 - Write "Take" to take book from library. When dialogue pops up, add required information. You cann't take more than 3 books.
 - Write "Return" to return taken book. In dialogue write book name you have taken. If you are late, then library grandma will be angry at you.
 - Write "Delete" to delete chosen book. Add book name and ISBN to delete book.
+
+**Challanges I faced while doing this task:**
+- At first I chose wrong command line reading method. It wasn't intuitive and was it was missery to use.
+- Then, I think I expanded my task too much. Thus I was sitting at about 6 hours on the project and didn't finnish testing.
